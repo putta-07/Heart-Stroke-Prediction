@@ -1,5 +1,4 @@
 # Heart-Stroke-Prediction
-Stroke Prediction using Machine Learning
 This project aims to predict the risk of stroke using machine learning algorithms. It leverages a healthcare dataset to train and evaluate models for identifying individuals at high risk of stroke, enabling early intervention and preventive measures.
 
 Introduction
