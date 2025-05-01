@@ -15,5 +15,6 @@ Feature Engineering: Selecting and transforming relevant features for model inpu
 Model Training: Training Logistic Regression, SVM, Decision Tree, and KNN models using the prepared data.
 Model Evaluation: Evaluating model performance using metrics like accuracy, precision, recall, and F1-score.
 Prediction: Predicting stroke risk for new individuals based on their health and lifestyle data.
-Results
+
+# Results
 The models achieved promising results, with Logistic Regression, SVM, and KNN demonstrating high accuracy (around 93.8%). The Decision Tree Classifier achieved a slightly lower accuracy (91.8%). The analysis also revealed interesting relationships between various factors and stroke risk, warranting further investigation.
